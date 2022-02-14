@@ -1,0 +1,17 @@
+table {
+    border-spacing 0px;
+    height: 240px;
+    width: 360px;
+}
+td.y {
+    background-color: yellow;
+    width: 240px;
+}
+td.x {
+    background-color: green;
+    width: 240px;
+}
+td.z {
+    background-color: red;
+    width: 240px;
+}
